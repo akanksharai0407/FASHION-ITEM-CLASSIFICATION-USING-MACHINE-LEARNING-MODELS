@@ -66,7 +66,7 @@ Each model was evaluated using:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Try dimensionality reduction (PCA) for faster training
 - Compare with CNNs or transfer learning
@@ -74,7 +74,7 @@ Each model was evaluated using:
 
 ---
 
-## 👩‍💻 Authors
+## Authors
 
 - Akanksha Rai  
 - Zhanel Ashirbek
