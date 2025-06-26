@@ -1,6 +1,6 @@
 # Fashion Item Classifier 
 
-This project focuses on building a lightweight fashion item classifier using traditional machine learning techniques instead of deep learning. It aims to automate the categorization of clothing items in grayscale images, helping improve product search and tagging in e-commerce platforms.
+This project focuses on building a fashion item classifier using traditional machine learning techniques. It aims to automate the categorization of clothing items in grayscale images, helping improve product search and tagging in e-commerce platforms.
 
 ---
 
@@ -8,7 +8,7 @@ This project focuses on building a lightweight fashion item classifier using tra
 
 With the rapid rise of e-commerce platforms and fashion content, it's becoming increasingly important to automate the classification of clothing items for better search and recommendation. Manual tagging is not scalable and often inconsistent.
 
-This project solves a **multiclass image classification** problem using classical ML techniques (KNN, SVM, Random Forest) on the **FashionMNIST** dataset, based on HOG features.
+This project solves a **multiclass image classification** problem using ML techniques (KNN, SVM, Random Forest) on the **FashionMNIST** dataset, based on HOG features.
 
 ---
 
